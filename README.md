@@ -1,4 +1,4 @@
-# A mathematical model of vagal-mediated insulin secretion
+# A mathematical model of vagus nerve-mediated insulin secretion
 
 This repository contains the code for the simulation of insulin dynamics based on the paper "Vagal nitric oxide action represses pancreatic insulin release in male mice" (in preparation). The simulation implements a mathematical model that describes the relationship between glucose concentration, vagal activity and insulin concentration.
 
